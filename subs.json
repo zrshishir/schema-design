@@ -1,0 +1,23 @@
+{
+    "subs182802": {
+        "id": 182802,
+        "level": "subs",
+        "status": "active",
+        "life": [
+            "1",
+            "month"
+        ],
+        "expires_at": "2024-11-05",
+        "limits": {
+            "word_generate": "500000",
+            "keyword_lookup": "250",
+            "serp_analysis": "100",
+            "image_generate": "100"
+        },
+        "usages": {},
+        "product_variation_id": 8505,
+        "query_status": "created",
+        "type": "subscription",
+        "is_free": ""
+    }
+}
